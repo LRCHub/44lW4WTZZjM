@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "鎖那 - 彼女は旅に出る [Official Video]",
+  "base_artist": "鎖那",
+  "createdAt": "2025-12-12T15:03:22.579129Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ひとり旅(feat. 鎖那) (独自旅行)",
+      "artist": "瀬名航/鎖那 (さな)",
+      "has_synced": true,
+      "path": "select/01_ひとり旅(feat._鎖那)_(独自旅行)_瀬名航_鎖那_(さな).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ひとり旅 (feat. 鎖那)",
+      "artist": "瀬名航",
+      "has_synced": true,
+      "path": "select/02_ひとり旅_(feat._鎖那)_瀬名航.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "可愛くなりたい／HoneyWorks feat.鎖那",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/03_可愛くなりたい_HoneyWorks_feat.鎖那_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "イジワルな出会い (feat. 鎖那)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/04_イジワルな出会い_(feat._鎖那)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "タナタロ (feat.鎖那)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/05_タナタロ_(feat.鎖那)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "リトルリグレット (feat. 鎖那)",
+      "artist": "HoneyWorks",
+      "has_synced": false,
+      "path": "select/06_リトルリグレット_(feat._鎖那)_HoneyWorks.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "三角ジェラシー -another story- (feat. 鎖那)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/07_三角ジェラシー_-another_story-_(feat._鎖那)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "初恋の絵本 (feat. 鎖那)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/08_初恋の絵本_(feat._鎖那)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "可愛くなりたい (feat. 鎖那)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/09_可愛くなりたい_(feat._鎖那)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ヤキモチの答え (feat. 鎖那)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/10_ヤキモチの答え_(feat._鎖那)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "イノコリ先生 (feat. 鎖那)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/11_イノコリ先生_(feat._鎖那)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "告白ライバル宣言 (feat. 鎖那)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/12_告白ライバル宣言_(feat._鎖那)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ラズベリー＊モンスター (feat. 鎖那)",
+      "artist": "HoneyWorks",
+      "has_synced": false,
+      "path": "select/13_ラズベリー_モンスター_(feat._鎖那)_HoneyWorks.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "第三次プリン戦争 (feat. 鎖那)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/14_第三次プリン戦争_(feat._鎖那)_HoneyWorks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "彼女は旅に出る",
+      "artist": "鎖那",
+      "has_synced": false,
+      "path": "select/pl_01_彼女は旅に出る_鎖那.txt"
+    }
+  ]
+}
